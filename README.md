@@ -1,4 +1,4 @@
-#The data which using for this project, scraped from the on-line car trading company in 2019, contains many features of 9 different car models. In this project, you will use the data set which is already preprocessed and prepared for algorithms .
+# The data which using for this project, scraped from the on-line car trading company in 2019, contains many features of 9 different car models. In this project, you will use the data set which is already preprocessed and prepared for algorithms .
 The aim of this project to understand of machine learning algorithms. Therefore, you will not need any EDA process as you will be working on the edited data.
 
 In this Senario, you will estimate the prices of cars using regression algorithms.
